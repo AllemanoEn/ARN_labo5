@@ -1,0 +1,4 @@
+HDMI
+IEC-320
+RJ-45
+VGA
